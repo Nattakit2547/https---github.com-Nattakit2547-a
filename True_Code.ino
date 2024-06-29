@@ -8,7 +8,7 @@
 #define button4 18
 #define button5 19
 
-
+ 
 Servo myservo1; //////////กำหนดตัวแปร servo
 Servo myservo2; //////////กำหนดตัวแปร servo
 Servo myservo3; //////////กำหนดตัวแปร servo
